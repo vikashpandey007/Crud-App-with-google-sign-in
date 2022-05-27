@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149119486333",
+    "project_id": "authenthication-ad52e",
+    "storage_bucket": "authenthication-ad52e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149119486333:android:529787af6a9eeecdc72414",
+        "android_client_info": {
+          "package_name": "com.example.firebass_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149119486333-d8obmkb2sf59sbuda7c9ead7ugd2j8rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebass_authentication",
+            "certificate_hash": "883852fa701d9281165299140d55451d655eb9cd"
+          }
+        },
+        {
+          "client_id": "149119486333-ulb4578hg5jap4n9r6pmlv080cgtpabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAng8C_xy-_G9gk54Dv5nwvsYXC4Yw-CuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149119486333-ulb4578hg5jap4n9r6pmlv080cgtpabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
